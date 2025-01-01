@@ -1,26 +1,53 @@
-## EECE_major project
-###*project supervisor*
-#  5g high speed data transmission using LIFI technlogy
+# High-Speed 5G Data Transmission Using Li-Fi Technology
 
-## Abstract
-This project explores the integration of Li-Fi with 5G networks to provide high-speed, secure, and energy-efficient data transmission. It focuses on:
-- Utilizing visible light for reduced latency and enhanced security.
-- Supporting real-time applications like gaming and remote surgeries.
+## Abstract Overview
 
-## Key Features
-- **High-Speed Connectivity:** Achieves data rates exceeding 10 Gbps.
-- **Energy Efficiency:** Uses LED lighting for dual purposes.
-- **Low Latency and Enhanced Security:** Ideal for smart cities and IoT.
+| **Category**            | **Details**                                                                                           |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| **Project Title**        | High-Speed 5G Data Transmission Using Li-Fi Technology                                               |
+| **Supervisor**           | Dr. Subhashish Tiwari                                                                                |
+| **Cluster**              | Communication (Comm)                                                                                 |
+| **Project Type**         | Extended Abstract (PROJ3999)                                                                         |
+| **Institution**          | GITAM School of Technology, Bengaluru                                                               |
 
-## Challenges Addressed
-- Line-of-sight requirements.
-- Interference from ambient light.
-- Integration with existing 5G infrastructure.
+---
 
-## Team
-- Niranjan GN (Reg No.: BU21EECE0100485)
-- Chavva Hitesh Reddy (Reg No.: BU21EECE0100499)
-- Munendrakumar LK (Reg No.: BU21EECE0100572)
+## Project Goals
 
-## Supervisor
-- Dr. Subhashish Tiwari
+| **Objective**              | **Details**                                                                                           |
+|----------------------------|-------------------------------------------------------------------------------------------------------|
+| High-Speed Connectivity    | Achieve ultra-fast data transmission rates exceeding traditional wireless methods.                    |
+| Spectrum Efficiency        | Utilize visible light spectrum to reduce dependency on congested RF spectrums.                       |
+| Low Latency                | Minimize delays for real-time applications (e.g., gaming, remote surgeries, autonomous vehicles).     |
+| Enhanced Security          | Provide secure channels, as visible light cannot penetrate walls, reducing unauthorized access risks. |
+
+---
+
+## Key Highlights
+
+| **Feature**              | **Description**                                                                                     |
+|--------------------------|-----------------------------------------------------------------------------------------------------|
+| **Data Rate**            | Achieves up to 10 Gbps with minimal latency.                                                       |
+| **Energy Efficiency**    | Utilizes LED lighting for both illumination and data transmission.                                  |
+| **Applications**         | Smart cities, IoT, autonomous vehicles, and industrial automation.                                 |
+| **Challenges Addressed** | Line-of-sight issues, ambient light interference, and 5G integration hurdles.                       |
+
+---
+
+## Team Details
+
+| **Name**                 | **Reg No.**           |
+|--------------------------|-----------------------|
+| Niranjan GN              | BU21EECE0100485      |
+| Chavva Hitesh Reddy      | BU21EECE0100499      |
+| Munendrakumar LK         | BU21EECE0100572      |
+
+---
+
+## Suggested IEEE Conferences
+
+| **Conference Title**                                                            | **Author**      | **Affiliation**                             |
+|---------------------------------------------------------------------------------|----------------|--------------------------------------------|
+| Which LiFi's Apps May Fit Mostly to 5G and Beyond-5G Technology?               | Gila Albert    | Holon Institute of Technology, Israel      |
+| Measurements-Based Channel Models for Indoor LiFi Systems                      | Ali Ghrayeb    | Hamad Bin Khalifa University, Qatar        |
+
