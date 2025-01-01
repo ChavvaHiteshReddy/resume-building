@@ -1,11 +1,10 @@
 ## EECE_major project
 #  5g high speed data transmission using LIFI technlogy
-# 
+# abstract
+##expertise in GIS and group behavior analysis.
 
-## About Me
-Software Developer at Reliance Industries with expertise in GIS and group behavior analysis.
-
-## Skills
+## Skills About Me
+Software Developer at Reliance Industries with 
 - Programming: Python, JavaScript
 - GIS Tools: QGIS, ArcGIS
 - Languages: Kannada, English
